@@ -20,6 +20,7 @@ switch (ciudad) {
   default:
     alert("la ciudad no es valida");
     break;
+   
 }
 
 if (ciudad == "bogota" || ciudad == "pasto") {
